@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jose M. llorca</h1>
 <h3 align="center">A passionate fullstack developer from Cuba</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=llorcasantana&label=Profile%20views&color=0e75b6&style=flat" alt="llorcasantana" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=llorcasantana&label=Profile%20views&color=0e75b6&style=flat" alt="llorcasantana" />  </p>
+
+[![committers.top badge](https://user-badge.committers.top/cuba_private/llorcasantana.svg)](https://user-badge.committers.top/cuba_private/llorcasantana)
 
 - 🌱 I’m currently learning **Frameworks, courses, etc**
 
 - 💬 Ask me about **react, vue, laravel, etc**
 
-- 📫 How to reach me **<a href="https://llorcadev.com/" target="_blank" rel="noreferrer">Llorcadev</a>**
+- 📫 How to reach me **<a href="https://x.com/llorcadev" target="_blank" rel="noreferrer">Llorcadev</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
