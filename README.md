@@ -11,6 +11,11 @@
 
 - 📫 How to reach me **<a href="https://x.com/llorcadev" target="_blank" rel="noreferrer">Llorcadev</a>**
 
+<h3 align="center">To my github followers</h3>
+<p align="left">
+  I'm not looking for followers who are only interested in increasing their own. If you're one of them, or a bot, I won't follow you. I'll only follow those who are truly interested in development, regardless of the programming language they use.
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/llorcasantana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="llorcasantana" height="30" width="40" /></a>
