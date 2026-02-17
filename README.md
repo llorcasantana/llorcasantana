@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llorcasantana&label=Profile%20views&color=0e75b6&style=flat" alt="llorcasantana" />  </p>
 
-[![committers.top badge](https://user-badge.committers.top/cuba_private/llorcasantana.svg)](https://user-badge.committers.top/cuba_private/llorcasantana)
-
 - 🌱 I’m currently learning **Frameworks, courses, etc**
 
 - 💬 Ask me about **react, vue, laravel, etc**
